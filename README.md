@@ -1,4 +1,7 @@
-# SbsGameAcademy_UnityTeam2
+# SbsGameAcademy\_UnityTeam2
+
 I want to go Home.
-- seungrae_cho
-- JinWoo_Jung
+학교가기 싫어-ㄹㅇ ㅋㅋ
+
+* seungrae\_cho
+* JinWoo\_Jung
